@@ -1,4 +1,6 @@
+pub mod connect_sticks;
 pub mod heap;
+pub mod k_closest;
 pub mod k_weakest_rows;
 pub mod kth_largest;
 pub mod kth_smallest;
